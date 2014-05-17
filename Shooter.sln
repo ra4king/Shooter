@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooter", "Shooter\Shooter\Shooter.csproj", "{E17A54AC-C2CA-4D10-88B7-C136C869F471}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "ShooterContent", "Shooter\ShooterContent\ShooterContent.contentproj", "{3B6E1E7B-BB09-45EE-BD09-2E5614FAB229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E17A54AC-C2CA-4D10-88B7-C136C869F471}.Debug|x86.ActiveCfg = Debug|x86
+		{E17A54AC-C2CA-4D10-88B7-C136C869F471}.Debug|x86.Build.0 = Debug|x86
+		{E17A54AC-C2CA-4D10-88B7-C136C869F471}.Release|x86.ActiveCfg = Release|x86
+		{E17A54AC-C2CA-4D10-88B7-C136C869F471}.Release|x86.Build.0 = Release|x86
+		{3B6E1E7B-BB09-45EE-BD09-2E5614FAB229}.Debug|x86.ActiveCfg = Debug|x86
+		{3B6E1E7B-BB09-45EE-BD09-2E5614FAB229}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+H:\Documents\Programming Files\C# Files\Shooter\Shooter\ShooterContent\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Documents\Programming Files\C# Files\Shooter\Shooter\ShooterContent\obj\x86\Release\ResolveAssemblyReference.cache
